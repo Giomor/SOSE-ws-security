@@ -9,7 +9,7 @@ Il wsdl sarà visibile qui: http://localhost:8080/services/soap/SumService?wsdl
 
 
 LANCIARE CLIENT:  
-mvn clean install
+mvn clean install  
 clean spring-boot:run  
 
 Il risultato sarà stampato sulla console
