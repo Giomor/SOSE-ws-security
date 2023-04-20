@@ -1,4 +1,4 @@
-package it.andreascanzani.example.wssecurity.cxf.client;
+package it.univaq.sose.example.wssecurity.cxf.client;
 
 import java.io.IOException;
 

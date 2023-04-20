@@ -1,4 +1,4 @@
-package it.andreascanzani.example.wssecurity.cxf.client;
+package it.univaq.sose.example.wssecurity.cxf.client;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,9 +12,9 @@ import org.apache.wss4j.dom.handler.WSHandlerConstants;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import it.andreascanzani.sumservice.schema.GetSumRequest;
-import it.andreascanzani.sumservice.wsdl.SumService;
-import it.andreascanzani.sumservice.wsdl.SumServicePort;
+import it.univaq.sose.sumservice.schema.GetSumRequest;
+import it.univaq.sose.sumservice.wsdl.SumService;
+import it.univaq.sose.sumservice.wsdl.SumServicePort;
 
 @SpringBootApplication
 public class ClientApplication implements CommandLineRunner {

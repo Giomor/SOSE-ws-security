@@ -1,5 +1,5 @@
 
-package it.andreascanzani.sumservice.schema;
+package it.univaq.sose.sumservice.schema;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
