@@ -1,4 +1,4 @@
-package it.andreascanzani.example.wssecurity.cxf;
+package it.univaq.sose.example.wssecurity.cxf;
 
 import javax.security.auth.callback.Callback;
 import javax.security.auth.callback.CallbackHandler;

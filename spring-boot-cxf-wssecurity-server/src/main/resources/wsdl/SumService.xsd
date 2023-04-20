@@ -1,4 +1,4 @@
-<xsd:schema elementFormDefault="qualified" targetNamespace="http://andreascanzani.it/SumService/schema" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema elementFormDefault="qualified" targetNamespace="http://sose.univaq.it/SumService/schema" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
 	<xsd:element name="GetSumRequest">
 		<xsd:complexType>

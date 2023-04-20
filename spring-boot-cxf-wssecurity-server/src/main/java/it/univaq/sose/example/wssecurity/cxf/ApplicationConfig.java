@@ -1,4 +1,4 @@
-package it.andreascanzani.example.wssecurity.cxf;
+package it.univaq.sose.example.wssecurity.cxf;
 
 import javax.xml.ws.Endpoint;
 
@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import it.andreascanzani.example.wssecurity.cxf.impl.SumServiceImpl;
+import it.univaq.sose.example.wssecurity.cxf.impl.SumServiceImpl;
 
 @Configuration
 public class ApplicationConfig {

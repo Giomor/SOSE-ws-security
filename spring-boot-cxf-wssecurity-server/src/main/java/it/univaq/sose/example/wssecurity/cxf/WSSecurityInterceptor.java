@@ -1,4 +1,4 @@
-package it.andreascanzani.example.wssecurity.cxf;
+package it.univaq.sose.example.wssecurity.cxf;
 
 import java.util.HashMap;
 import java.util.Map;

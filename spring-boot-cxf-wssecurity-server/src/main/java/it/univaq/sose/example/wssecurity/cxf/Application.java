@@ -1,4 +1,4 @@
-package it.andreascanzani.example.wssecurity.cxf;
+package it.univaq.sose.example.wssecurity.cxf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

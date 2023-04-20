@@ -1,14 +1,14 @@
-package it.andreascanzani.example.wssecurity.cxf.impl;
+package it.univaq.sose.example.wssecurity.cxf.impl;
 
 import org.apache.cxf.annotations.SchemaValidation;
 import org.apache.cxf.annotations.SchemaValidation.SchemaValidationType;
 import org.apache.cxf.interceptor.InInterceptors;
 import org.springframework.stereotype.Service;
 
-import it.andreascanzani.example.wssecurity.cxf.WSSecurityInterceptor;
-import it.andreascanzani.sumservice.schema.GetSumRequest;
-import it.andreascanzani.sumservice.schema.GetSumResponse;
-import it.andreascanzani.sumservice.wsdl.SumServicePort;
+import it.univaq.sose.example.wssecurity.cxf.WSSecurityInterceptor;
+import it.univaq.sose.sumservice.schema.GetSumRequest;
+import it.univaq.sose.sumservice.schema.GetSumResponse;
+import it.univaq.sose.sumservice.wsdl.SumServicePort;
 
 @Service
 @SchemaValidation(type = SchemaValidationType.REQUEST)
